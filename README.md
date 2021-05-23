@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/othneildrew/Best-README-Template">
+<a href="https://www.youtube.com/c/epicprogrammer/">
     <img src="https://user-images.githubusercontent.com/73644573/119261615-ce73a880-bbf5-11eb-9fa3-4614b60e0126.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -13,7 +13,10 @@
   
   ## About The Project
 
-[![https://user-images.githubusercontent.com/73644573/119261618-d16e9900-bbf5-11eb-9c7a-2b5c8c788c6d.jpg][https://user-images.githubusercontent.com/73644573/119261618-d16e9900-bbf5-11eb-9c7a-2b5c8c788c6d.jpg]](https://example.com)
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://user-images.githubusercontent.com/73644573/119261618-d16e9900-bbf5-11eb-9c7a-2b5c8c788c6d.jpg" alt="ScreenShot" width="1280" height="720">
+  </a>
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
