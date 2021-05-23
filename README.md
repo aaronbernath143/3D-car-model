@@ -31,10 +31,11 @@ This project will help you to learn even better in web development in 2021 and b
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks that you built your project using.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Three JS](https://threejs.org/)
+* [Orbit Controls](https://threejs.org/docs/#examples/en/controls/OrbitControls)
 
 
 
