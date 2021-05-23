@@ -1,4 +1,4 @@
-
+<p align="center">
 <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://user-images.githubusercontent.com/73644573/119261615-ce73a880-bbf5-11eb-9fa3-4614b60e0126.png" alt="Logo" width="80" height="80">
   </a>
