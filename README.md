@@ -50,7 +50,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/santosharron/3D-car-model.git
    ```
 2. Start Running Using Live Server!
    ```sh
