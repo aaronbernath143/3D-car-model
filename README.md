@@ -9,7 +9,7 @@
   
   ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][https://user-images.githubusercontent.com/73644573/119261618-d16e9900-bbf5-11eb-9c7a-2b5c8c788c6d.jpg]](https://example.com)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
