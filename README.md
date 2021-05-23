@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://epicprogrammerassets.netlify.app/Assets/dark_city_driving.mp4" alt="ScreenShot" width="1920" height="1080">
+    <img src="https://user-images.githubusercontent.com/73644573/119262368-93bf3f80-bbf8-11eb-9b05-afce09af4542.gif" alt="ScreenShot" width="1920" height="1080">
   </a>
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
