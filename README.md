@@ -14,12 +14,13 @@
   ## About The Project
 
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://santosharron.github.io/3D-car-model/">
     <img src="https://user-images.githubusercontent.com/73644573/119262368-93bf3f80-bbf8-11eb-9b05-afce09af4542.gif" alt="ScreenShot" width="800" height="600">
   </a>
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+First of all, we’ll need to find a suitable 3D model. There are lots of free models available on the internet. However, Three.js recommended to use a model with glTF format due to small file size and efficiency. So I’m going to download the one that already in glTF format. But if you already have a model in other formats, three.js is also support FBX and obj file as well. In this tutorial we had used Lamborghini 3D Model.
 
+We’ll use three.js OrbitControl plugin to add a 360 degrees viewer that let the users rotate the camera. Get the OrbitControls.js from github and include it to the page.
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
